@@ -2,4 +2,4 @@
 
 I'm a student developper which specialises in Javascript and Java.
 
-And Also I do wikis.
+And also I do wikis.
