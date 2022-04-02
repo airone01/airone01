@@ -5,7 +5,6 @@ I'm a student developper (juniors' junior 🐣), and I'm still trying to figure 
 Here are some stats:
 
 [![AirOne01's github stats](https://github-readme-stats.vercel.app/api?username=AirOne01&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-[![AirOne01's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=AirOne01&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 I started tons of side projects, a lot of which i abandonned, so you might just look right below for everything important.
 
