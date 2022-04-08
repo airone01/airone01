@@ -6,7 +6,7 @@ Here are some stats:
 
 [![AirOne01's github stats](https://github-readme-stats.vercel.app/api?username=AirOne01&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-I started tons of side projects, a lot of which i abandonned, so you might as well just look right below for everything important.
+I started tons of side projects, a lot of which were abandonned, so you might as well just look right below for everything important.
 
 ## Projects I'm working on right now
 
