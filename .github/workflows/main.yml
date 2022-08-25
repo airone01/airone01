@@ -29,7 +29,7 @@ jobs:
           # Options
           filename: metrics_left.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           config_octicon: yes
           config_timezone: Europe/Paris
           plugin_isocalendar: yes
