@@ -27,6 +27,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          user: AirOne01
           filename: metrics_left.svg
           template: classic
           base: header, activity, community, repositories, metadata
@@ -65,6 +66,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
+          user: AirOne01
           filename: metrics_right.svg
           template: classic
           base: ""
