@@ -76,7 +76,7 @@ jobs:
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks
-          plugin_music_user: erwannlebg
+          plugin_music_token: "${{ secrets.CLIENT_ID }}, ${{ secrets.CLIENT_SECRET }}, ${{ secrets.REFRESH_TOKEN }}"
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
