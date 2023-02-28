@@ -35,6 +35,9 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
+          plugin_languages_indepth: yes
+          commits_authoring: Erwann Lagouche, AirOne01, p2101604, popgthyrd@gmail.com
+          plugin_languages_ignored: shell
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
