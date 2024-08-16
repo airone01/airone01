@@ -1,4 +1,4 @@
-name: README: WakaTime
+name: "README: WakaTime"
 
 on:
   schedule:

@@ -1,4 +1,4 @@
-name: README: activity
+name: "README: activity"
 
 on:
   schedule:
