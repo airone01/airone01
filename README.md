@@ -1,5 +1,7 @@
-<div align="center">
-  <img src="https://github.com/AirOne01/AirOne01/blob/main/metrics.svg" width="75%" />
-</div>
+![](./1.png)
+
+## Hello!
+
+I'm a student in DevOps, soon to integrate the 42 school.
 
 ![](https://hit.yhype.me/github/profile?user_id=21955960)
