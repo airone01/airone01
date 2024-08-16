@@ -1,6 +1,5 @@
 <div align="center" width="100%">
 <div float="left">
-<!-- <img src="/images/banner_bottom.png" height="21px" width="100%" align="bottom"> -->
 </div>
 <div align="center">
 
@@ -8,7 +7,7 @@
 <picture><img src="/images/banner_left.png" height="800px" width="24px" align="left"></picture>
 <picture><img src="/images/banner_right.png" height="800px" width="24px" align="right"></picture>
 
-<img src="./ascii.svg" width="90%" alt="A colored banner saying welcome friend" />
+<img src="./images/ascii.svg" width="90%" alt="A colored banner saying welcome friend" />
 
 <sup>I'm Erwann Lagouche, a student in DevOps, soon to integrate [school 42](https://www.42network.org/). Here are some stats about me.</sup>
 
@@ -71,6 +70,7 @@ Last Updated on 16/08/2024 13:32:51 UTC
 </table>
 
 <picture><img src="./images/banner_bottom.png" width="100%" height="24px" alt="A colored banner for style" float="bottom" /></picture>
+
 </div>
 </div>
 
