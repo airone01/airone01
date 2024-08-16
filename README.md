@@ -4,8 +4,8 @@
 <div align="center">
 
 <picture><img src="/images/banner_top.png" height="24px" width="100%" align="top"></picture>
-<picture><img src="/images/banner_left.png" height="1200px" width="24px" align="left"></picture>
-<picture><img src="/images/banner_right.png" height="1200px" width="24px" align="right"></picture>
+<picture><img src="/images/banner_left.png" height="1150" width="18px" align="left"></picture>
+<picture><img src="/images/banner_right.png" height="1150px" width="18px" align="right"></picture>
 
 <img src="./images/ascii.svg" width="80%" alt="A colored banner saying welcome friend" />
 
