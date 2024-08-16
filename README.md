@@ -1,11 +1,13 @@
 <div align="center" width="100%">
 <div float="left">
-<img src="/images/banner_top.png" height="21px" width="100%">
-<img src="/images/banner_left.png" height="800px" width="21px" align="left">
-<img src="/images/banner_right.png" height="800px" width="21px" align="right">
 <!-- <img src="/images/banner_bottom.png" height="21px" width="100%" align="bottom"> -->
 </div>
 <div align="center">
+
+<picture><img src="/images/banner_top.png" height="24px" width="100%" align="top"></picture>
+<picture><img src="/images/banner_left.png" height="800px" width="24px" align="left"></picture>
+<picture><img src="/images/banner_right.png" height="800px" width="24px" align="right"></picture>
+
 <img src="./ascii.svg" width="90%" alt="A colored banner saying welcome friend" />
 
 <sup>I'm Erwann Lagouche, a student in DevOps, soon to integrate [school 42](https://www.42network.org/). Here are some stats about me.</sup>
@@ -68,7 +70,7 @@ Last Updated on 16/08/2024 13:32:51 UTC
 </tr>
 </table>
 
-<img src="./images/banner_bottom.png" width="100%" height="21px" alt="A colored banner for style" float="bottom" />
+<picture><img src="./images/banner_bottom.png" width="100%" height="24px" alt="A colored banner for style" float="bottom" /></picture>
 </div>
 </div>
 
