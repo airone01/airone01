@@ -4,17 +4,16 @@
 <div align="center">
 
 <picture><img src="/images/banner_top.png" height="24px" width="100%" align="top"></picture>
-<picture><img src="/images/banner_left.png" height="800px" width="24px" align="left"></picture>
-<picture><img src="/images/banner_right.png" height="800px" width="24px" align="right"></picture>
+<picture><img src="/images/banner_left.png" height="1200px" width="24px" align="left"></picture>
+<picture><img src="/images/banner_right.png" height="1200px" width="24px" align="right"></picture>
 
-<img src="./images/ascii.svg" width="90%" alt="A colored banner saying welcome friend" />
+<img src="./images/ascii.svg" width="80%" alt="A colored banner saying welcome friend" />
 
-<sup>I'm Erwann Lagouche, a student in DevOps, soon to integrate [school 42](https://www.42network.org/). Here are some stats about me.</sup>
+<sup>I'm Erwann Lagouche, a student in DevOps, soon to integrate [school 42](https://www.42network.org/). Here are some of my stats.</sup>
 
 <table>
 <tr>
 <td width="100%">
-<sup>
 
 #### 🌃 WakaTime
 
@@ -64,7 +63,7 @@ multidl                  21 mins             █████░░░░░░�
 Last Updated on 16/08/2024 13:32:51 UTC
 
 <!--END_SECTION:waka-->
-</sup>
+
 </td>
 </tr>
 </table>
