@@ -2,6 +2,8 @@
 
 <img src="./ascii.png" width="100%" alt="A colored banner for style" />
 
+<img src="./test.svg" width="100%" alt="A colored banner for style" />
+
 I'm Erwann Lagouche, a student in DevOps, soon to integrate the 42 school.
 
 <div align="center" width="100%">
