@@ -1,4 +1,4 @@
-name: Update README
+name: README: activity
 
 on:
   schedule:
@@ -18,4 +18,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "docs(README.md): auto update"
+          COMMIT_MSG: "docs(README.md): auto update activity"
