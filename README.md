@@ -9,7 +9,7 @@
 
 <img src="./images/ascii.svg" width="80%" alt="A colored banner saying welcome friend" />
 
-<sup>I'm Erwann Lagouche, a student in DevOps, soon to integrate [school 42](https://www.42network.org/). Here are some of my stats.</sup>
+<sup>I'm Erwann Lagouche, a soon-to-be student in [school 42](https://www.42network.org/). Here are some of my stats.</sup>
 
 <table>
 <tr>
