@@ -3,10 +3,6 @@
 </div>
 <div align="center">
 
-<picture><img src="/images/banner_top.png" height="24px" width="100%" align="top"></picture>
-<picture><img src="/images/banner_left.png" height="1150" width="18px" align="left"></picture>
-<picture><img src="/images/banner_right.png" height="1150px" width="18px" align="right"></picture>
-
 <img src="./images/ascii.svg" width="80%" alt="A colored banner saying welcome friend" />
 
 <sup>I'm Erwann Lagouche, currently and for the forseeable future studying at [42](https://www.42network.org/). Here are some of my stats.</sup>
@@ -64,8 +60,6 @@ Linux                    16 hrs 1 min        ███████████�
 </td>
 </tr>
 </table>
-
-<picture><img src="./images/banner_bottom.png" width="100%" height="24px" alt="A colored banner for style" float="bottom" /></picture>
 
 </div>
 </div>
