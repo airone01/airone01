@@ -14,8 +14,6 @@
 #### 🌃 WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-792%20hrs%2038%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -55,7 +53,7 @@ WSL                      57 mins             ███░░░░░░░░�
 ```
 
 
- Last Updated on 30/11/2024 12:10:15 UTC
+ Last Updated on 01/12/2024 12:10:55 UTC
 <!--END_SECTION:waka-->
 
 </td>
