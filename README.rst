@@ -9,11 +9,10 @@ Interested in systems programming, web dev, TypeScript internals, and developer 
 Outside of programming
 ----------------------
 
-* Rock climbing (because of course)
-* Skiing
-* Long walks on the beach :-)
+* Rock climbing (because of course) & skiing
 * Movies; Wes Anderson fan
 * Music, precisely rap, electronic, and some weird stuff
+* Video games as an art; my pfp is from Signalis
 
 Technologies
 ------------
