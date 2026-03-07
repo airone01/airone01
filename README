@@ -6,7 +6,7 @@ Hi. I am Erwann Lagouche, a junior Web dev and DevOps based in France.
 Hobbies & interests
 -------------------
 
-* Rock climbing (because of course I do)
+* Rock climbing (because of course)
 * Skiing
 * Long walks on the beach :-)
 * Movies; Wes Anderson fan
@@ -27,7 +27,7 @@ What I'm working on
 nix & nixpkgs
 ~~~~~~~~~~~~~
 
-I am maintaining the following packages:
+I am maintaining the following packages in nixpkgs:
 
 * searchix
 
