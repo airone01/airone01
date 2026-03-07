@@ -4,7 +4,7 @@ airone01
 Erwann Lagouche — junior web developer and DevOps enthusiast based in France.
 
 Currently studying at 42.
-Interested in systems programming, TypeScript internals, and developer tooling.
+Interested in systems programming, web dev, TypeScript internals, and developer tooling.
 
 Outside of programming
 ----------------------
@@ -19,14 +19,6 @@ Technologies
 ------------
 
 TypeScript, Astro, React, Svelte, Nix, Linux, C/C++, Zig.
-
-Current dev interests
----------------------
-
-* Web development (and the TS ecosystem)
-* The type and generics system of TypeScript
-* Low-level programming (though it does not like me back)
-* Integration and development technologies
 
 Currently learning
 ------------------
