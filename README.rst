@@ -30,5 +30,5 @@ Currently learning
 Currently working on
 --------------------
 
-You can find everything I'm currently working on in `this file <MAINTAINERS.rst>`.
+You can find my work `here <https://raw.githubusercontent.com/airone01/airone01/refs/heads/main/MAINTAINING.rst>`_.
 
