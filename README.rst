@@ -12,7 +12,7 @@ Outside of programming
 * Rock climbing (because of course) & skiing
 * Movies; Wes Anderson fan
 * Music, precisely rap, electronic, and some weird stuff
-* Video games as an art; my pfp is from Signalis
+* Video games as an art form
 
 Technologies
 ------------
@@ -26,8 +26,12 @@ Currently learning
 * Nix packaging
 * Assembly
 
-Currently working on
---------------------
+Notes
+-----
 
 You can find my work `here <https://raw.githubusercontent.com/airone01/airone01/refs/heads/main/MAINTAINING.rst>`_.
+
+Contact: `airone01@proton.me <mailto:airone01@proton.me>`_
+
+My profile picture is the `Isle of the Dead <https://en.wikipedia.org/wiki/Isle_of_the_Dead_(painting)>`_.
 
