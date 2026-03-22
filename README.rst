@@ -22,6 +22,7 @@ TypeScript, Astro, React, Svelte, Nix, Linux, C/C++, Zig.
 Currently learning
 ------------------
 
+* `How to actually make a flake <https://github.com/airone01/flake/issues/287>`_
 * Emulator architecture
 * Nix packaging
 * Assembly
